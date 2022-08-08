@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db0a0e88.css",
+    "main.js": "/static/js/main.1b03387a.js",
+    "static/js/787.c837b1d3.chunk.js": "/static/js/787.c837b1d3.chunk.js",
+    "static/media/video.mp4": "/static/media/video.ff33ca63ad4bbff4aefa.mp4",
+    "static/media/video.webm": "/static/media/video.ee3ffb6a220f8be4f4d3.webm",
+    "static/media/UT1S.gif": "/static/media/UT1S.a8d22d74cf7e63958388.gif",
+    "static/media/AlOr-T.gif": "/static/media/AlOr-T.9d3e0e0a90d055761e51.gif",
+    "static/media/un1.png": "/static/media/un1.4eb8841c077718ce4631.png",
+    "static/media/UntidyScientificGrouse-max-1mb.gif": "/static/media/UntidyScientificGrouse-max-1mb.82dc22e39505d75c7c8e.gif",
+    "static/media/food.gif": "/static/media/food.ee9ced2ea56007723e2a.gif",
+    "static/media/bg13.png": "/static/media/bg13.4254bedfae65c7534303.png",
+    "static/media/one-punch-man-workout.jpg": "/static/media/one-punch-man-workout.978b494881bd3f2ecbe8.jpg",
+    "static/media/photo3.jpg": "/static/media/photo3.ef97fd4e2b2e4392c244.jpg",
+    "static/media/photo2.jpg": "/static/media/photo2.b51275d13078d6c87e5b.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.89809d892c0a3d4e454d.jpg",
+    "static/media/image1.jpg": "/static/media/image1.d44111d99566e9317860.jpg",
+    "static/media/image2.jpg": "/static/media/image2.ac31283efef430a9fb6b.jpg",
+    "static/media/image3.jpg": "/static/media/image3.001e76900f82915fe301.jpg",
+    "static/media/giphy (1).gif": "/static/media/giphy (1).97a2924714e4877db40a.gif",
+    "static/media/Asset 1.png": "/static/media/Asset 1.51b854004d3511c82f51.png",
+    "static/media/Logo.png": "/static/media/Logo.fbc3848e1683ab363302.png",
+    "static/media/casual-exercise.png": "/static/media/casual-exercise.38e64a4d2880cfd7717b.png",
+    "static/media/lifting.png": "/static/media/lifting.252559ad5c2e2ba9e8f8.png",
+    "static/media/waist.png": "/static/media/waist.951029937e9e74190913.png",
+    "static/media/muscle.png": "/static/media/muscle.d77fcdc55035ad273736.png",
+    "static/media/muscles.png": "/static/media/muscles.d1b70b12192432203adb.png",
+    "static/media/chest.png": "/static/media/chest.48f90691e80c362c4428.png",
+    "static/media/neck-pull.png": "/static/media/neck-pull.80d78a7c3081c8840445.png",
+    "static/media/crown.svg": "/static/media/crown.f98984dd1aa12d4e3ba25b9ea18e8784.svg",
+    "index.html": "/index.html",
+    "main.db0a0e88.css.map": "/static/css/main.db0a0e88.css.map",
+    "main.1b03387a.js.map": "/static/js/main.1b03387a.js.map",
+    "787.c837b1d3.chunk.js.map": "/static/js/787.c837b1d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0a0e88.css",
+    "static/js/main.1b03387a.js"
+  ]
+}
