@@ -14,7 +14,7 @@ import UpperA from "../img/icons/muscle.png"
 import UpperL from "../img/icons/casual-exercise.png"
 import Waist from "../img/icons/waist.png"
 
-
+//gym image
 const gymImage = [
   {
     id: 1,
